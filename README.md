@@ -1,0 +1,1 @@
+A searchable blood bank system that helps users to find the blood at the time of emergency in their nearby location. It is also helpful for the organisation to manage their blood bank through qr and other streamlinied features.
