@@ -177,7 +177,7 @@
       </div>
     </section>
 
-    <!-- Impact Section -->
+    <!-- Impact Section that help to build -->
     <section class="impact-section">
       <div class="container">
         <h2>Our Impact</h2>
